@@ -1,3 +1,3 @@
-const hi = (name: string) => `Hello ${name}`;
+import baseFontSize from './baseFontSize';
 
-export default hi;
+export { baseFontSize };
