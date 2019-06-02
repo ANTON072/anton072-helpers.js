@@ -1,2 +1,2 @@
-declare function hi(name: string): void;
-export default hi;
+import baseFontSize from './baseFontSize';
+export { baseFontSize };

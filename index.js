@@ -1,6 +1,4 @@
 "use strict";
 exports.__esModule = true;
-function hi(name) {
-    console.log("Hello " + name);
-}
-exports["default"] = hi;
+var baseFontSize_1 = require("./baseFontSize");
+exports.baseFontSize = baseFontSize_1["default"];
